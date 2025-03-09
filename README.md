@@ -8,7 +8,8 @@ A simple and efficient **Flutter-based currency converter** that provides real-t
 ✅ **Swap functionality** to quickly reverse currencies  
 ✅ **Error handling** for invalid inputs or network issues  
 ✅ **Lightweight & fast** performance  
-✅ **Supports Android, iOS, Web, Windows, Linux, and macOS**  
+✅ **Supports Android,**
+**(iOS, Web, Windows, Linux, and macOS coming soon)**
 
 ## 🚀 Installation
 
